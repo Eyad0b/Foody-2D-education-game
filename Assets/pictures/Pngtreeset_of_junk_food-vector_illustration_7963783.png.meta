@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: cd9dfe11386baf74c807fa37b63a91a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7020125875733785292
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_0
+  - first:
+      213: 8500666405200961940
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_1
+  - first:
+      213: 321187946686216589
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_2
+  - first:
+      213: -3944641254945954384
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_3
+  - first:
+      213: 8256908731005136078
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_4
+  - first:
+      213: 95282096291374949
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_5
+  - first:
+      213: 1252642353772512863
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_6
+  - first:
+      213: 729184733816493255
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_7
+  - first:
+      213: 4345813947825388305
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_8
+  - first:
+      213: 4148477900870242872
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_9
+  - first:
+      213: -7838371529445907837
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_10
+  - first:
+      213: 5699910843634741903
+    second: Pngtreeset_of_junk_food-vector_illustration_7963783_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_0
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2250
+        width: 516
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccae3ad2a4f7c6160800000000000000
+      internalID: 7020125875733785292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_1
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2193
+        width: 397
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491a91c9e0f68f570800000000000000
+      internalID: 8500666405200961940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_2
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2363
+        width: 510
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d897e5c5cb6157400800000000000000
+      internalID: 321187946686216589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_3
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2343
+        width: 431
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b56890ada1d149c0800000000000000
+      internalID: -3944641254945954384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1386
+        width: 539
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce16e6ebe669270800000000000000
+      internalID: 8256908731005136078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_5
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1468
+        width: 561
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e6eecf82825100800000000000000
+      internalID: 95282096291374949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_6
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1488
+        width: 678
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56483f7597426110800000000000000
+      internalID: 1252642353772512863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_7
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 1458
+        width: 643
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c415cae6a59e1a00800000000000000
+      internalID: 729184733816493255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 464
+        width: 496
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bf11ca2ce6f4c30800000000000000
+      internalID: 4345813947825388305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_9
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 509
+        width: 403
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832dde7dbaa529930800000000000000
+      internalID: 4148477900870242872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_10
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 607
+        width: 650
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38267d99f92883390800000000000000
+      internalID: -7838371529445907837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreeset_of_junk_food-vector_illustration_7963783_11
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 484
+        width: 573
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82fe3e76b62a1f40800000000000000
+      internalID: 5699910843634741903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
